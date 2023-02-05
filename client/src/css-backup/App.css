@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.App {
+  height: 100vh;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  background-image: linear-gradient(to right, #0c001a, #5135ce);
+  color: #e2dfff;
+}
